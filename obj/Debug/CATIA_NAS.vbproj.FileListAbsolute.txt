@@ -1,0 +1,14 @@
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\bin\Debug\CATIA_NAS.exe.config
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\bin\Debug\CATIA_NAS.exe
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\bin\Debug\CATIA_NAS.pdb
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\bin\Debug\CATIA_NAS.xml
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.vbprojAssemblyReference.cache
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\Interop.INFITF.dll
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.vbproj.ResolveComReference.cache
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.Resources.resources
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.vbproj.GenerateResource.cache
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.exe
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.xml
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\CATIA_NAS.pdb
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\Interop.KnowledgewareTypeLib.dll
+C:\Users\Carlos Agenjo\source\repos\CATIA_NAS\obj\Debug\Interop.ProductStructureTypeLib.dll
