@@ -27,7 +27,7 @@
             If hijo.PartNumber.Contains("ABS") Then
                 StandardName(hijo)
             End If
-            getHijos(hijo)z
+            getHijos(hijo)
         Next
     End Sub
 
